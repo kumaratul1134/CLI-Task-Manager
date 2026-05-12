@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Study DSA",
+        "done": true,
+        "priority": "High",
+        "due_date": "2026-05-20"
+    },
+    {
+        "title": "Learn Operating Systems",
+        "done": false,
+        "priority": "Low",
+        "due_date": "2026-05-20"
+    },
+    {
+        "title": "Learn Python",
+        "done": false,
+        "priority": "High",
+        "due_date": "2026-05-20"
+    }
+]
