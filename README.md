@@ -31,6 +31,6 @@ A command-line task manager built using Python and argparse.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/kumaratul1134/CLI-Task-Manager.git
 cd cli-task-manager
 ```
